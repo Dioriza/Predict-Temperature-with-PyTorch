@@ -14,10 +14,10 @@ Dataset terdiri dari 2 kolom, tanggal dan temperatur.
 # Hasil Analisa
 
 selama training..
-![cover image]((https://github.com/Dioriza/Data/blob/master/Screen%20Shot%202020-06-05%20at%208.23.25%20pm.png)
+![cover image](https://github.com/Dioriza/Data/blob/master/Screen%20Shot%202020-06-05%20at%208.23.25%20pm.png)
 
 hasil prediksi..
-![cover image]((https://github.com/Dioriza/Data/blob/master/Screen%20Shot%202020-06-05%20at%208.23.36%20pm.png)
+![cover image](https://github.com/Dioriza/Data/blob/master/Screen%20Shot%202020-06-05%20at%208.23.36%20pm.png)
 
 sumber:
        
