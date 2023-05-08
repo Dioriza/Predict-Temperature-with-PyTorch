@@ -1,5 +1,5 @@
 # Predict-Temperature-with-PyTorch
-Penggunaan multivariat dengan transfer learning GRU pada PyTorch.
+Penggunaan multivariat dengan transfer learning GRU pada PyTorch Framework.
 
 # Transfer Learning
 ![cover image](https://github.com/Dioriza/Klasifikasi-panorama-menggunakan-mobilenet_v2/blob/master/transfer.png)
